@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "275535105592",
+    "firebase_url": "https://hellornfb-9e006.firebaseio.com",
+    "project_id": "hellornfb-9e006",
+    "storage_bucket": "hellornfb-9e006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275535105592:android:ed4cf4809bdf3c0e",
+        "android_client_info": {
+          "package_name": "com.hellornfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275535105592-roa1s92t2aing69fqipi6pp3er7slu3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBje6Pc-l1Eer9SwoLQaXOMOHS1Iyzd8-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275535105592-roa1s92t2aing69fqipi6pp3er7slu3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
